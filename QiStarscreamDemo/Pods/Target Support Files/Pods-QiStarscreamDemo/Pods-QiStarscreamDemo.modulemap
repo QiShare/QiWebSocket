@@ -1,0 +1,6 @@
+module Pods_QiStarscreamDemo {
+  umbrella header "Pods-QiStarscreamDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
